@@ -23,7 +23,7 @@ Bienvenue sur mon GitHub ! Je ne suis pas développeur pro, mais j'adore automat
 
 ### 📊 Mes stats de "codeur du dimanche"
 
-[![Stats de Clément](https://github-readme-streak-stats.herokuapp.com/?user=clement-g-50&theme=dark)](https://git.io/streak-stats)
+[![Stats de Clément](https://github-readme-streak-stats.herokuapp.com/?user=clement-g-50&theme=dark)](https://github.com/clement-g-50)
 
 ---
 
